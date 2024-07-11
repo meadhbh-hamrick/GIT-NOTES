@@ -1,0 +1,27 @@
+#+title: Conceptual Discussions About GIT and Version Control
+#+author: Meadhbh Hamrick
+#+date: 2024-07-11
+
+   This section contains conceptual discussions, mostly about GIT,
+   but occasional references to how other version control systems
+   work (or don't work.)
+
+   1.1. [[./1_01_COMPLETE.org][Is GIT Complete?]]
+
+      In other words, is GIT a complete version control solution?
+      If I'm asking the question, you can probably guess my
+      answer.  In this text, I mostly talk about branching
+      strategies and how GIT is more of a toolbox than a specific
+      tool.
+
+   1.2. [[./1_02_COMPOSING.org][Composing Identical Changes]]
+
+      When I first started using GIT, I noticed commit ids looked
+      an aweful lot like cryptographic hashes.  And then I heard
+      someone mention something about content-addressable storage,
+      so I assumed ids were the hashes of the contents of a repo.
+      And they kind of are.  But not the content you might think.
+      This text, charitably called an essay, talks about how commit
+      ids are generated and why two different copies of a repo
+      might wind up with different commit ids, even if you make the
+      same changes to them.

@@ -2,8 +2,6 @@
 #+author: Meadhbh Hamrick
 #+date: 2024-07-11
 
-*  GIT-NOTES
-
    A Few Things I've Learned About GIT
   
    I've used GIT for more years than I would like to admit.  Before
@@ -11,24 +9,36 @@
    PVCS, RCS and SCCS.  So I've  seen a few version control sins in
    my time.  I wanted to write  down a few thoughts about using GIT
    and what better place than in text files in a GIT repo?
+   
+   Content in this repo is divided into these sections:
+     
+   1. [[./1_CONCEPTUAL.org][Conceptual Discussions About GIT and Version Control]]
+      
+   2. [[./2_MISTAKES.org][Recovering From Mistakes]]
 
+   3. [[./3_UNDER_THE_HOOD.org][Under the Hood]]
   
 *  References
 
    - GNOTES :: <web <
-        <title "GIT NOTES">
-        <author "Meadhbh Hamrick">
-        <url "https://github.com/meadhbh-hamrick/GIT-NOTES">>>
+      <title "GIT NOTES">
+      <author "Meadhbh Hamrick">
+      <url "https://github.com/meadhbh-hamrick/GIT-NOTES">>>
 
    - PROGIT :: <book <
-       <title "Pro Git">
-       <copyright 2014>
-       <author "Scott Chacon">
-       <author "Ben  Straub">
-       <publisher Apress>
-       <oclc 896342063>
-       <url "https://git-scm.com/book/en/v2">>>
+      <title "Pro Git">
+      <copyright 2014>
+      <author "Scott Chacon">
+      <author "Ben  Straub">
+      <publisher Apress>
+      <oclc 896342063>
+      <url "https://git-scm.com/book/en/v2">>>
 
    - GITREF :: <web <
-       <title "GIT Reference Manual">
-       <url "https://git-scm.com/docs">>>
+      <title "GIT Reference Manual">
+      <url "https://git-scm.com/docs">>>
+
+   - GITRE2 :: (web (
+      (title "GIT Reference Manual")
+      (url "https://git-scm.com/docs")))
+      
