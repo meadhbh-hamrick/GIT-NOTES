@@ -36,3 +36,10 @@
    |------+------+-----|
    | Pete | 1234 |  17 |
    | Anna | 4321 |  25 |
+
+   | One                | Two     | Three                 |
+   |--------------------+---------+-----------------------|
+   | This is            | a       | test                  |
+   | And                | here is | another               |
+   | it would be        | cool if | emacs would           |
+   | automatically fill | the     | entire line with text |
