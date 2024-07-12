@@ -8,7 +8,7 @@
    HTML.  But I suppose it could be worse.  It was worse in the
    1990s, so I'll cope.
 
-** Can Second-Level Headlines Be Indented?
+   ** Can Second-Level Headlines Be Indented?
 
    It would be nice if I could indent second level section
    headers, but I don't think I can.
