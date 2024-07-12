@@ -29,3 +29,10 @@
       "Exclusive or."
       (if a (not b) b))
    #+END_SRC
+
+   And here's a table:
+
+   | Name | Ph # | Age |
+   |------+------+-----|
+   | Pete | 1234 |  17 |
+   | Anna | 4321 |  25 |
